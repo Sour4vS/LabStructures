@@ -1,1 +1,1 @@
-# LabStructures-
+# LabStructures
